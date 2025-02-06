@@ -7,7 +7,7 @@
 Name:		plasma6-krecorder
 Version:	24.12.0
 Release:	%{?git:0.%{git}.}1
-Summary:	Video player for Plasma Mobile
+Summary:	Audio recorder for Plasma Mobile
 %if %{defined git}
 Source0:	https://invent.kde.org/utilities/krecorder/-/archive/%{gitbranch}/krecorder-%{gitbranchd}.tar.bz2
 %else
